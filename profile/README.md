@@ -1,4 +1,4 @@
-# RenewEarth Lab 🌍
+# RenewEarth Lab
 
 **기후 기술로 만드는 지속 가능한 공급망, 자동화된 탄소 관리를 선도합니다.**
 
@@ -8,11 +8,9 @@ RenewEarth Lab은 자동차 산업 공급망의 탄소 배출 데이터 수집·
 
 ---
 
-## Product
+## CarbonLink
 
-### [CarbonLink](https://carbonlink.co.kr)
-
-> 공급망 탄소 데이터를 자동으로 수집·산정·보고하는 올인원 솔루션
+공급망 탄소 데이터를 자동으로 수집·산정·보고하는 올인원 솔루션
 
 | 영역 | 설명 |
 |------|------|
@@ -21,20 +19,7 @@ RenewEarth Lab은 자동차 산업 공급망의 탄소 배출 데이터 수집·
 | **Verification** | 원격 제3자 검증 One-Click |
 | **Reporting** | CBAM·CDP·CSDDD 보고서 자동 생성 |
 
-[소개자료 다운로드](https://carbonlink.co.kr) · [상담 문의](mailto:admin@renewearth-lab.com)
-
----
-
-## Engineering
-
-이 조직에서는 CarbonLink 개발에 필요한 내부 도구와 SDK를 관리합니다.
-
-| Repository | 용도 |
-|------------|------|
-| [`agent-kit`](https://github.com/renewearth/agent-kit) | 공유 AI 에이전트 설정 · 스킬 · CI/CD |
-| (more coming soon) | |
-
-커밋 컨벤션: [Conventional Commits](https://www.conventionalcommits.org/) (`feat:`, `fix:`, `feat(scope)!:`)
+[상담 문의](mailto:admin@renewearth-lab.com)
 
 ---
 
