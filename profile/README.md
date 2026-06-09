@@ -27,7 +27,7 @@ RenewEarth Lab은 자동차 산업 공급망의 탄소 배출 데이터 수집·
 
 | 채널 | 링크 |
 |------|------|
-| Website | [renewearth-lab.com](https://renewearth-lab.com) |
+| Website | [renewearth-lab.com](https://carbonlink.co.kr) |
 | Product | [carbonlink.co.kr](https://carbonlink.co.kr) |
 | Email | admin@renewearth-lab.com |
 | Blog | [blog.carbonlink.co.kr](https://blog.carbonlink.co.kr) |
