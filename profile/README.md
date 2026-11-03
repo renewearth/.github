@@ -18,6 +18,5 @@
 <p align="center">
   <a href="https://www.carbonlink.co.kr"><b>Website</b></a> ·
   <a href="https://www.carbonlink.co.kr/bbs/content.php?co_id=blog"><b>Blog</b></a> ·
-  <a href="https://www.linkedin.com/company/carbonlink"><b>LinkedIn</b></a> ·
   <a href="https://salesmap.kr/web-form/b3c5cc7c-67af-4498-b226-85db6bc98b63"><b>Contact</b></a>
 </p>
